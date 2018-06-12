@@ -1,0 +1,88 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+#botão{
+   background-color:rgba(0, 155, 0, 0.7);
+   border: 0px;
+}
+
+
+#Opcoes{
+    height: 100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2) ), url("../images/img_bg_2.jpeg")no-repeat center;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#Reputacao{
+    height: 100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2) ), url("../images/img_bg_3.jpg")no-repeat center;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#Promocao{
+    height: 100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2) ), url("../images/img_bg_4.jpg")no-repeat center;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#stats{
+background-color: rgba(0, 155, 0, 0.5);    
+}
+
+#boxstats{
+    background-color: rgba(0, 100, 0, 0.5);
+}
+
+
+#bg-header{
+    height: 100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/img_bg_1.jpeg")no-repeat center;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+*::-webkit-input-placeholder {
+    color: #fff!important;
+}
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: #fff!important;
+}
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: #fff!important;
+}
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #fff!important;
+}
+
+
+li {
+    padding-bottom: 10px;
+    padding-right: 10px;  
+}
+
+footer {
+    height: 100%;
+    padding-top: 50px;
+    color: rgba(0, 155, 0, 0.5);
+}
